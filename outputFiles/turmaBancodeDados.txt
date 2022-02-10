@@ -1,0 +1,17 @@
+TURMA: BANCO DE DADOS
+============================
+LISTA DE ALUNOS
+  Dra. Alana Porto
+  Dra. Lavínia Lopes
+  Esther Rodrigues
+  Lavínia Cunha
+  Letícia Cunha
+  Luiz Miguel Azevedo
+  Nathan Nascimento
+  Natália Gomes
+  Srta. Ana Júlia Ramos
+  Thales Farias
+  Vitor Hugo Lima
+  Yago Ramos
+============================
+TOTAL DE ALUNOS : 12

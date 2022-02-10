@@ -1,0 +1,16 @@
+TURMA: JAVA
+============================
+LISTA DE ALUNOS
+  Alexandre Martins
+  Esther Rodrigues
+  Lavínia Cunha
+  Letícia Cunha
+  Natália Gomes
+  Pietra Martins
+  Srta. Ana Júlia Ramos
+  Thales Farias
+  Thomas Peixoto
+  Vitor Hugo Lima
+  Yago Ramos
+============================
+TOTAL DE ALUNOS : 11
